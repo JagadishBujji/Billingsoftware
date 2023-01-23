@@ -1,0 +1,47 @@
+.paidmain{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.addoperator{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 190px;
+    bottom: 23px;
+}
+.equaloperator{
+    position: absolute;
+    left: 412px;
+    bottom: 39px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paid {
+  background: #4FFFB0;
+  border-radius: 5px;
+  padding: 18px;
+  color: #000;
+  font-weight: 600;
+  width: 70%;
+}
+.unpaid {
+  background: pink;
+  border-radius: 5px;
+  padding: 18px;
+  color: #000;
+  font-weight: 600;
+  width: 70%;
+}
+.total {
+  background: #B7E9F7;
+  border-radius: 5px;
+  padding: 18px;
+  color: #000;
+  font-weight: 600;
+  width: 70%;
+}
+.main{
+ width: 80%;
+}

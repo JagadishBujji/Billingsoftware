@@ -1,0 +1,46 @@
+.css-mpr9kc-MuiPaper-root-MuiDrawer-paper {
+  width: 200px;
+}
+
+.css-1y6sui9 {
+  width: 200px;
+}
+
+.css-1puh3cy-MuiPaper-root-MuiAppBar-root {
+  width: calc(100% - 200px);
+}
+
+.css-hd4j5r-MuiContainer-root {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.css-1byr0tz {
+  padding-top: 116px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.css-1hgyc67-MuiToolbar-root {
+  height: 60px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.img-modal {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.stack{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}

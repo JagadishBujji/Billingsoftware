@@ -1,0 +1,10 @@
+.salesmain{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.salestablehead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
